@@ -4,7 +4,7 @@
 [2]: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.012453
 
 
-BP-OSD decoding with a sliding window for QLDPC codes, modified from the open-source implementation in [[1]]. I am trying to reproduce the results in [[2]] by adding a sliding window and measurement errors.
+BP-OSD decoding with a sliding window for QLDPC codes, modified from the open-source implementation in [[1]]. I am trying to reproduce the results and followed the procedure in [[2]] by adding a sliding window and measurement errors.
 
 Example for the [[625, 25, 8]] LDPC code, showing lifetime versus error rate.
 
